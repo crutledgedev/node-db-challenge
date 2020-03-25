@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+  Relational databases are structured in such a way that they are able to cross reference data points between mutliple data sets. SQL is a a language/driver that allows communication with databases.
+
 - [ ] Why do tables need a `primary key`?
+
+  to give them a unique identifier that will not be duplicatred on another data point. This allows them to be referenced and cross referenced.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+A bridge table
 
 ## Minimum Viable Product
 
